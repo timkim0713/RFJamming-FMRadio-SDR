@@ -1,5 +1,5 @@
 # Project Overview
-> This project aims to demonstrate our understanding of configuring SDR and system envrionment. Our project is mainly divided into 2 parts: Radio Frequency Jamming (Disrupting >WiFi/LTE Connections) and receive FM Radio signals using SDR devices.
+This project aims to demonstrate our understanding of configuring SDR and system envrionment. Our project is mainly divided into 2 parts: Radio Frequency Jamming (Disrupting WiFi/LTE Connections) and receive FM Radio signals using SDR devices.
 
 ## Project Envrioment Configuration
 GNURadio 3.7.11 on Windows 10 OS and HackRF One SDR Device
