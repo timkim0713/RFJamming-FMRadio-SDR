@@ -16,7 +16,7 @@ There are cases when wireless systems need to be forcefully shut down. For insta
 
 
 #### Demo Video
-[RF Jamming Demo](https://youtu.be/LSURTmn_JLs)
+[![](http://img.youtube.com/vi/LSURTmn_JLs/0.jpg)](http://www.youtube.com/watch?v=LSURTmn_JLs "RF Jamming Demo")
 
 ## FM Radio Receiver
 
@@ -30,4 +30,4 @@ Radio broadcasting using frequency modulation (FM) launched in the United States
 
 
 #### Demo Video
-[FM Radio Demo](https://youtu.be/aVtaJKpdFlQ)
+[![](http://img.youtube.com/vi/aVtaJKpdFlQ/0.jpg)](http://www.youtube.com/watch?v=aVtaJKpdFlQ "FM Radio Receiver Demo")
